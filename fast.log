@@ -1,0 +1,80 @@
+06/05/2021-06:58:45.565845  [**] [1:2400032:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 33 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 168.206.161.237:80 -> 10.10.10.10:5060
+06/05/2021-06:58:45.582368  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.224.236:80 -> 10.10.10.10:14858
+06/05/2021-06:58:45.586263  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.226.189:80 -> 10.10.10.10:40033
+06/05/2021-06:58:45.578815  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.228.236:80 -> 10.10.10.10:14347
+06/05/2021-06:58:45.580944  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.224.118:80 -> 10.10.10.10:33707
+06/05/2021-06:58:45.579436  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.224.142:80 -> 10.10.10.10:51530
+06/05/2021-06:58:45.590068  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.239.35:80 -> 10.10.10.10:51347
+06/05/2021-06:58:45.675579  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.237.86:80 -> 10.10.10.10:9942
+06/05/2021-06:58:45.588954  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.233.193:80 -> 10.10.10.10:14653
+06/05/2021-06:58:45.622524  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.230.169:80 -> 10.10.10.10:36560
+06/05/2021-06:58:45.686515  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.230.59:80 -> 10.10.10.10:52846
+06/05/2021-06:58:45.598481  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.232.226:80 -> 10.10.10.10:65117
+06/05/2021-06:58:45.638140  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.233.178:80 -> 10.10.10.10:43885
+06/05/2021-06:58:45.682275  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.232.93:80 -> 10.10.10.10:525
+06/05/2021-06:58:45.693252  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.237.170:80 -> 10.10.10.10:31581
+06/05/2021-06:58:45.625417  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.230.53:80 -> 10.10.10.10:52353
+06/05/2021-06:58:45.657624  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.239.20:80 -> 10.10.10.10:31148
+06/05/2021-06:58:45.671520  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.231.30:80 -> 10.10.10.10:61781
+06/05/2021-06:58:45.661513  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.227.89:80 -> 10.10.10.10:56930
+06/05/2021-06:58:45.666625  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.239.226:80 -> 10.10.10.10:53278
+06/05/2021-06:58:45.580952  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.224.249:80 -> 10.10.10.10:50434
+06/05/2021-06:58:45.565845  [**] [1:2400032:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 33 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 168.206.161.237:80 -> 10.10.10.10:5060
+06/05/2021-06:58:45.578815  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.228.236:80 -> 10.10.10.10:14347
+06/05/2021-06:58:45.579436  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.224.142:80 -> 10.10.10.10:51530
+06/05/2021-06:58:45.580944  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.224.118:80 -> 10.10.10.10:33707
+06/05/2021-06:58:45.580952  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.224.249:80 -> 10.10.10.10:50434
+06/05/2021-06:58:45.582368  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.224.236:80 -> 10.10.10.10:14858
+06/05/2021-06:58:45.586263  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.226.189:80 -> 10.10.10.10:40033
+06/05/2021-06:58:45.588954  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.233.193:80 -> 10.10.10.10:14653
+06/05/2021-06:58:45.590068  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.239.35:80 -> 10.10.10.10:51347
+06/05/2021-06:58:45.598481  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.232.226:80 -> 10.10.10.10:65117
+06/05/2021-06:58:45.622524  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.230.169:80 -> 10.10.10.10:36560
+06/05/2021-06:58:45.625417  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.230.53:80 -> 10.10.10.10:52353
+06/05/2021-06:58:45.638140  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.233.178:80 -> 10.10.10.10:43885
+06/05/2021-06:58:45.657624  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.239.20:80 -> 10.10.10.10:31148
+06/05/2021-06:58:45.661513  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.227.89:80 -> 10.10.10.10:56930
+06/05/2021-06:58:45.666625  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.239.226:80 -> 10.10.10.10:53278
+06/05/2021-06:58:45.671520  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.231.30:80 -> 10.10.10.10:61781
+06/05/2021-06:58:45.675579  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.237.86:80 -> 10.10.10.10:9942
+06/05/2021-06:58:45.682275  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.232.93:80 -> 10.10.10.10:525
+06/05/2021-06:58:45.686515  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.230.59:80 -> 10.10.10.10:52846
+06/05/2021-06:58:45.693252  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.237.170:80 -> 10.10.10.10:31581
+06/05/2021-06:58:45.565845  [**] [1:2400032:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 33 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 168.206.161.237:80 -> 10.10.10.10:5060
+06/05/2021-06:58:45.579436  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.224.142:80 -> 10.10.10.10:51530
+06/05/2021-06:58:45.580944  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.224.118:80 -> 10.10.10.10:33707
+06/05/2021-06:58:45.580952  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.224.249:80 -> 10.10.10.10:50434
+06/05/2021-06:58:45.586263  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.226.189:80 -> 10.10.10.10:40033
+06/05/2021-06:58:45.588954  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.233.193:80 -> 10.10.10.10:14653
+06/05/2021-06:58:45.590068  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.239.35:80 -> 10.10.10.10:51347
+06/05/2021-06:58:45.598481  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.232.226:80 -> 10.10.10.10:65117
+06/05/2021-06:58:45.578815  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.228.236:80 -> 10.10.10.10:14347
+06/05/2021-06:58:45.582368  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.224.236:80 -> 10.10.10.10:14858
+06/05/2021-06:58:45.622524  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.230.169:80 -> 10.10.10.10:36560
+06/05/2021-06:58:45.625417  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.230.53:80 -> 10.10.10.10:52353
+06/05/2021-06:58:45.638140  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.233.178:80 -> 10.10.10.10:43885
+06/05/2021-06:58:45.657624  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.239.20:80 -> 10.10.10.10:31148
+06/05/2021-06:58:45.661513  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.227.89:80 -> 10.10.10.10:56930
+06/05/2021-06:58:45.666625  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.239.226:80 -> 10.10.10.10:53278
+06/05/2021-06:58:45.671520  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.231.30:80 -> 10.10.10.10:61781
+06/05/2021-06:58:45.675579  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.237.86:80 -> 10.10.10.10:9942
+06/05/2021-06:58:45.682275  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.232.93:80 -> 10.10.10.10:525
+06/05/2021-06:58:45.686515  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.230.59:80 -> 10.10.10.10:52846
+06/05/2021-06:58:45.693252  [**] [1:2400039:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 40 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 192.101.237.170:80 -> 10.10.10.10:31581
+01/25/2011-20:53:48.017406  [**] [1:2002157:13] ET CHAT Skype User-Agent detected [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 172.16.255.1:10616 -> 204.9.163.158:80
+01/25/2011-20:54:10.998556  [**] [1:2400011:4680] ET DROP Spamhaus DROP Listed Traffic Inbound group 12 [**] [Classification: Misc Attack] [Priority: 2] {UDP} 87.121.79.141:29347 -> 172.16.255.1:50983
+01/25/2011-20:53:56.736049  [**] [1:2002157:13] ET CHAT Skype User-Agent detected [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 172.16.255.1:10619 -> 204.9.163.158:80
+01/25/2011-20:54:09.041399  [**] [1:2001595:13] ET CHAT Skype VOIP Checking Version (Startup) [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 172.16.255.1:10630 -> 204.9.163.158:80
+01/25/2011-20:54:09.041399  [**] [1:2002157:13] ET CHAT Skype User-Agent detected [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 172.16.255.1:10630 -> 204.9.163.158:80
+01/25/2011-20:53:55.256951  [**] [1:2002157:13] ET CHAT Skype User-Agent detected [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 172.16.255.1:10617 -> 204.9.163.158:80
+01/25/2011-20:54:18.736690  [**] [1:2002157:13] ET CHAT Skype User-Agent detected [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 172.16.255.1:10653 -> 128.241.90.211:80
+01/25/2011-20:54:18.740934  [**] [1:2002157:13] ET CHAT Skype User-Agent detected [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 172.16.255.1:10654 -> 128.241.90.211:80
+01/25/2011-20:54:18.742624  [**] [1:2002157:13] ET CHAT Skype User-Agent detected [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 172.16.255.1:10655 -> 128.241.90.211:80
+01/25/2011-20:54:53.956650  [**] [1:2002157:13] ET CHAT Skype User-Agent detected [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 172.16.255.1:10655 -> 128.241.90.211:80
+01/25/2011-20:54:00.682451  [**] [1:2002157:13] ET CHAT Skype User-Agent detected [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 172.16.255.1:10620 -> 204.9.163.158:80
+01/25/2011-20:54:53.956611  [**] [1:2002157:13] ET CHAT Skype User-Agent detected [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 172.16.255.1:10654 -> 128.241.90.211:80
+01/25/2011-20:54:53.956585  [**] [1:2002157:13] ET CHAT Skype User-Agent detected [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 172.16.255.1:10653 -> 128.241.90.211:80
+01/25/2011-20:53:56.550320  [**] [1:2002157:13] ET CHAT Skype User-Agent detected [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 172.16.255.1:10618 -> 204.9.163.158:80
+01/25/2011-20:54:37.330025  [**] [1:2101990:3] GPL CHAT MSN user search [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 10.0.2.15:2550 -> 64.4.35.57:1863
+01/25/2011-20:54:37.330648  [**] [1:2101990:3] GPL CHAT MSN user search [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 10.0.2.15:2550 -> 64.4.35.57:1863
+01/25/2011-20:57:08.256589  [**] [1:2002157:13] ET CHAT Skype User-Agent detected [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 172.16.255.1:10714 -> 204.9.163.158:80

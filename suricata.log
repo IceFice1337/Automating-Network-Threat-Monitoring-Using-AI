@@ -1,0 +1,192 @@
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Notice: suricata: This is Suricata version 8.0.4 RELEASE running in USER mode
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Info: cpu: CPUs/cores online: 20
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Notice: runmodes: thread stack size of 0 too small: setting to 512k
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Info: suricata: Setting engine mode to IDS mode by default
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Info: exception-policy: master exception-policy set to: auto
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Info: coredump-config: Configuring core dump is not yet supported on Windows.
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Info: logopenfile: fast output device (regular) initialized: fast.log
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Info: logopenfile: stats output device (regular) initialized: stats.log
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\botcc.rules: No such file or directory.
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\botcc.portgrouped.rules: No such file or directory.
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\ciarmy.rules: No such file or directory.
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\compromised.rules: No such file or directory.
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\drop.rules: No such file or directory.
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\dshield.rules: No such file or directory.
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-activex.rules: No such file or directory.
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-adware_pup.rules: No such file or directory.
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-attack_response.rules: No such file or directory.
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-chat.rules: No such file or directory.
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-coinminer.rules: No such file or directory.
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-current_events.rules: No such file or directory.
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-dns.rules: No such file or directory.
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-dos.rules: No such file or directory.
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-exploit.rules: No such file or directory.
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-ftp.rules: No such file or directory.
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-games.rules: No such file or directory.
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-icmp_info.rules: No such file or directory.
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-icmp.rules: No such file or directory.
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-imap.rules: No such file or directory.
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-inappropriate.rules: No such file or directory.
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-info.rules: No such file or directory.
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-ja3.rules: No such file or directory.
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-malware.rules: No such file or directory.
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-misc.rules: No such file or directory.
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-mobile_malware.rules: No such file or directory.
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-netbios.rules: No such file or directory.
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-phishing.rules: No such file or directory.
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-p2p.rules: No such file or directory.
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-policy.rules: No such file or directory.
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-pop3.rules: No such file or directory.
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-rpc.rules: No such file or directory.
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-scada.rules: No such file or directory.
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-scan.rules: No such file or directory.
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-shellcode.rules: No such file or directory.
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-smtp.rules: No such file or directory.
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-snmp.rules: No such file or directory.
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-sql.rules: No such file or directory.
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-telnet.rules: No such file or directory.
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-tftp.rules: No such file or directory.
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-user_agents.rules: No such file or directory.
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-voip.rules: No such file or directory.
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-web_client.rules: No such file or directory.
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-web_server.rules: No such file or directory.
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-web_specific_apps.rules: No such file or directory.
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-worm.rules: No such file or directory.
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\tor.rules: No such file or directory.
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Warning: detect: 47 rule files specified, but no rules were loaded!
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Warning: threshold-config: Error opening file: "C:\Program Files\Suricata\\\threshold.config": No such file or directory
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Info: detect: 0 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Warning: suricata: setrlimit unavailable.
+[31464 - RX#01] 2026-04-20 13:59:41 Info: pcap: Starting file run for C:/Users/user/Downloads/test.pcap
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Notice: threads: Threads created -> RX: 1 W: 20 FM: 1 FR: 1   Engine started.
+[31464 - RX#01] 2026-04-20 13:59:41 Info: checksum: Less than 1/10th of packets have an invalid checksum, assuming checksum offloading is NOT used (3/1000)
+[31464 - RX#01] 2026-04-20 13:59:41 Info: pcap: pcap file C:/Users/user/Downloads/test.pcap end of file reached (pcap err code 0)
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Notice: suricata: Signal Received.  Stopping engine.
+[9776 - Suricata-Main] 2026-04-20 13:59:41 Info: suricata: time elapsed 0.925s
+[31464 - RX#01] 2026-04-20 13:59:42 Notice: pcap: read 1 file, 8000 packets, 515475 bytes
+[9776 - Suricata-Main] 2026-04-20 13:59:42 Info: counters: Alerts: 0
+[33392 - Suricata-Main] 2026-04-20 14:11:11 Notice: suricata: This is Suricata version 8.0.4 RELEASE running in USER mode
+[33392 - Suricata-Main] 2026-04-20 14:11:11 Info: cpu: CPUs/cores online: 20
+[33392 - Suricata-Main] 2026-04-20 14:11:11 Notice: runmodes: thread stack size of 0 too small: setting to 512k
+[33392 - Suricata-Main] 2026-04-20 14:11:11 Info: suricata: Setting engine mode to IDS mode by default
+[33392 - Suricata-Main] 2026-04-20 14:11:11 Info: exception-policy: master exception-policy set to: auto
+[33392 - Suricata-Main] 2026-04-20 14:11:11 Info: coredump-config: Configuring core dump is not yet supported on Windows.
+[33392 - Suricata-Main] 2026-04-20 14:11:11 Info: logopenfile: fast output device (regular) initialized: fast.log
+[33392 - Suricata-Main] 2026-04-20 14:11:11 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[33392 - Suricata-Main] 2026-04-20 14:11:11 Info: logopenfile: stats output device (regular) initialized: stats.log
+[33392 - Suricata-Main] 2026-04-20 14:11:11 Error: detect-parse: unknown rule keyword 'file.magic'.
+[33392 - Suricata-Main] 2026-04-20 14:11:11 Error: detect: error parsing signature "alert tcp any any -> $HOME_NET any (msg:"ET EXPLOIT 7-Zip 7z File PPMd Properties Parsing Integer Underflow (CVE-2023-31102)"; flow:established,to_client; file.magic; content:"7-zip archive"; startswith; file.data; content:"7z|bc af 27 1c 00 30 00 00|"; startswith; fast_pattern; pcre:"/\x30{24,}\x00\x30{24,}\x17\x06\x1a\x01/"; filesize:<10000; reference:url,ds-security.com/post/integer-overflow-in-7-zip-cve-2023-31102/; reference:cve,2023-31102; classtype:misc-attack; sid:2065690; rev:1; metadata:attack_target Client_Endpoint, created_at 2025_11_06, cve CVE_2023_31102, deployment Perimeter, deployment Internal, confidence Low, signature_severity Minor, tag Description_Generated_By_Proofpoint_Nexus, updated_at 2025_11_06; target:dest_ip;)" from file C:\\Program Files\\Suricata\\rules\\emerging-exploit.rules at line 4111
+[33392 - Suricata-Main] 2026-04-20 14:11:11 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-icmp_info.rules: No such file or directory.
+[33392 - Suricata-Main] 2026-04-20 14:11:12 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-policy.rules: No such file or directory.
+[33392 - Suricata-Main] 2026-04-20 14:11:12 Info: detect: 47 rule files processed. 40080 rules successfully loaded, 1 rules failed, 0 rules skipped
+[33392 - Suricata-Main] 2026-04-20 14:11:12 Warning: threshold-config: Error opening file: "C:\Program Files\Suricata\\\threshold.config": No such file or directory
+[33392 - Suricata-Main] 2026-04-20 14:11:12 Info: detect: 40085 signatures processed. 1261 are IP-only rules, 3800 are inspecting packet payload, 34987 inspect application layer, 0 are decoder event only
+[33392 - Suricata-Main] 2026-04-20 14:11:12 Warning: detect-flowbits: flowbit 'et.DocVBAProject' is checked but not set. Checked in 2020170 and 0 other sigs
+[33392 - Suricata-Main] 2026-04-20 14:11:12 Warning: detect-flowbits: flowbit 'ET.generictelegram' is checked but not set. Checked in 2045614 and 0 other sigs
+[33392 - Suricata-Main] 2026-04-20 14:11:12 Warning: detect-flowbits: flowbit 'ET.implantjs.syn' is checked but not set. Checked in 2060257 and 2 other sigs
+[33392 - Suricata-Main] 2026-04-20 14:11:12 Warning: detect-flowbits: flowbit 'ET.telnet.busybox' is checked but not set. Checked in 2023019 and 2 other sigs
+[33392 - Suricata-Main] 2026-04-20 14:11:12 Warning: detect-flowbits: flowbit 'ET.JS.Obfus.Func' is checked but not set. Checked in 2017247 and 0 other sigs
+[33392 - Suricata-Main] 2026-04-20 14:11:12 Warning: detect-flowbits: flowbit 'ET.ZIP.Symlink.Inbound' is checked but not set. Checked in 2059742 and 2 other sigs
+[33392 - Suricata-Main] 2026-04-20 14:11:15 Warning: suricata: setrlimit unavailable.
+[31888 - RX#01] 2026-04-20 14:11:15 Info: pcap: Starting file run for C:\Users\user\Downloads\test.pcap
+[33392 - Suricata-Main] 2026-04-20 14:11:15 Notice: threads: Threads created -> RX: 1 W: 20 FM: 1 FR: 1   Engine started.
+[31888 - RX#01] 2026-04-20 14:11:15 Info: checksum: No packets with invalid checksum, assuming checksum offloading is NOT used
+[31888 - RX#01] 2026-04-20 14:11:15 Info: pcap: pcap file C:\Users\user\Downloads\test.pcap end of file reached (pcap err code 0)
+[33392 - Suricata-Main] 2026-04-20 14:11:15 Notice: suricata: Signal Received.  Stopping engine.
+[33392 - Suricata-Main] 2026-04-20 14:11:16 Info: suricata: time elapsed 1.159s
+[31888 - RX#01] 2026-04-20 14:11:16 Notice: pcap: read 1 file, 8000 packets, 515475 bytes
+[33392 - Suricata-Main] 2026-04-20 14:11:17 Info: counters: Alerts: 21
+[22664 - Suricata-Main] 2026-04-20 14:12:31 Notice: suricata: This is Suricata version 8.0.4 RELEASE running in USER mode
+[22664 - Suricata-Main] 2026-04-20 14:12:31 Info: cpu: CPUs/cores online: 20
+[22664 - Suricata-Main] 2026-04-20 14:12:31 Notice: runmodes: thread stack size of 0 too small: setting to 512k
+[22664 - Suricata-Main] 2026-04-20 14:12:31 Info: suricata: Setting engine mode to IDS mode by default
+[22664 - Suricata-Main] 2026-04-20 14:12:31 Info: exception-policy: master exception-policy set to: auto
+[22664 - Suricata-Main] 2026-04-20 14:12:31 Info: coredump-config: Configuring core dump is not yet supported on Windows.
+[22664 - Suricata-Main] 2026-04-20 14:12:31 Info: logopenfile: fast output device (regular) initialized: fast.log
+[22664 - Suricata-Main] 2026-04-20 14:12:31 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[22664 - Suricata-Main] 2026-04-20 14:12:31 Info: logopenfile: stats output device (regular) initialized: stats.log
+[22664 - Suricata-Main] 2026-04-20 14:12:31 Error: detect-parse: unknown rule keyword 'file.magic'.
+[22664 - Suricata-Main] 2026-04-20 14:12:31 Error: detect: error parsing signature "alert tcp any any -> $HOME_NET any (msg:"ET EXPLOIT 7-Zip 7z File PPMd Properties Parsing Integer Underflow (CVE-2023-31102)"; flow:established,to_client; file.magic; content:"7-zip archive"; startswith; file.data; content:"7z|bc af 27 1c 00 30 00 00|"; startswith; fast_pattern; pcre:"/\x30{24,}\x00\x30{24,}\x17\x06\x1a\x01/"; filesize:<10000; reference:url,ds-security.com/post/integer-overflow-in-7-zip-cve-2023-31102/; reference:cve,2023-31102; classtype:misc-attack; sid:2065690; rev:1; metadata:attack_target Client_Endpoint, created_at 2025_11_06, cve CVE_2023_31102, deployment Perimeter, deployment Internal, confidence Low, signature_severity Minor, tag Description_Generated_By_Proofpoint_Nexus, updated_at 2025_11_06; target:dest_ip;)" from file C:\\Program Files\\Suricata\\rules\\emerging-exploit.rules at line 4111
+[22664 - Suricata-Main] 2026-04-20 14:12:31 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-icmp_info.rules: No such file or directory.
+[22664 - Suricata-Main] 2026-04-20 14:12:32 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-policy.rules: No such file or directory.
+[22664 - Suricata-Main] 2026-04-20 14:12:32 Info: detect: 47 rule files processed. 40080 rules successfully loaded, 1 rules failed, 0 rules skipped
+[22664 - Suricata-Main] 2026-04-20 14:12:32 Warning: threshold-config: Error opening file: "C:\Program Files\Suricata\\\threshold.config": No such file or directory
+[22664 - Suricata-Main] 2026-04-20 14:12:32 Info: detect: 40085 signatures processed. 1261 are IP-only rules, 3800 are inspecting packet payload, 34987 inspect application layer, 0 are decoder event only
+[22664 - Suricata-Main] 2026-04-20 14:12:32 Warning: detect-flowbits: flowbit 'et.DocVBAProject' is checked but not set. Checked in 2020170 and 0 other sigs
+[22664 - Suricata-Main] 2026-04-20 14:12:32 Warning: detect-flowbits: flowbit 'ET.generictelegram' is checked but not set. Checked in 2045614 and 0 other sigs
+[22664 - Suricata-Main] 2026-04-20 14:12:32 Warning: detect-flowbits: flowbit 'ET.implantjs.syn' is checked but not set. Checked in 2060257 and 2 other sigs
+[22664 - Suricata-Main] 2026-04-20 14:12:32 Warning: detect-flowbits: flowbit 'ET.telnet.busybox' is checked but not set. Checked in 2023019 and 2 other sigs
+[22664 - Suricata-Main] 2026-04-20 14:12:32 Warning: detect-flowbits: flowbit 'ET.JS.Obfus.Func' is checked but not set. Checked in 2017247 and 0 other sigs
+[22664 - Suricata-Main] 2026-04-20 14:12:32 Warning: detect-flowbits: flowbit 'ET.ZIP.Symlink.Inbound' is checked but not set. Checked in 2059742 and 2 other sigs
+[22664 - Suricata-Main] 2026-04-20 14:12:35 Warning: suricata: setrlimit unavailable.
+[3480 - RX#01] 2026-04-20 14:12:35 Info: pcap: Starting file run for C:/Users/user/Downloads/test.pcap
+[3480 - RX#01] 2026-04-20 14:12:35 Info: checksum: Less than 1/10th of packets have an invalid checksum, assuming checksum offloading is NOT used (3/1000)
+[22664 - Suricata-Main] 2026-04-20 14:12:35 Notice: threads: Threads created -> RX: 1 W: 20 FM: 1 FR: 1   Engine started.
+[3480 - RX#01] 2026-04-20 14:12:35 Info: pcap: pcap file C:/Users/user/Downloads/test.pcap end of file reached (pcap err code 0)
+[22664 - Suricata-Main] 2026-04-20 14:12:35 Notice: suricata: Signal Received.  Stopping engine.
+[22664 - Suricata-Main] 2026-04-20 14:12:36 Info: suricata: time elapsed 1.234s
+[3480 - RX#01] 2026-04-20 14:12:36 Notice: pcap: read 1 file, 8000 packets, 515475 bytes
+[22664 - Suricata-Main] 2026-04-20 14:12:37 Info: counters: Alerts: 21
+[34744 - Suricata-Main] 2026-04-20 15:05:34 Notice: suricata: This is Suricata version 8.0.4 RELEASE running in USER mode
+[34744 - Suricata-Main] 2026-04-20 15:05:34 Info: cpu: CPUs/cores online: 20
+[34744 - Suricata-Main] 2026-04-20 15:05:34 Notice: runmodes: thread stack size of 0 too small: setting to 512k
+[34744 - Suricata-Main] 2026-04-20 15:05:34 Info: suricata: Setting engine mode to IDS mode by default
+[34744 - Suricata-Main] 2026-04-20 15:05:34 Info: exception-policy: master exception-policy set to: auto
+[34744 - Suricata-Main] 2026-04-20 15:05:34 Info: coredump-config: Configuring core dump is not yet supported on Windows.
+[34744 - Suricata-Main] 2026-04-20 15:05:34 Info: logopenfile: fast output device (regular) initialized: fast.log
+[34744 - Suricata-Main] 2026-04-20 15:05:34 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[34744 - Suricata-Main] 2026-04-20 15:05:34 Info: logopenfile: stats output device (regular) initialized: stats.log
+[34744 - Suricata-Main] 2026-04-20 15:05:34 Error: detect-parse: unknown rule keyword 'file.magic'.
+[34744 - Suricata-Main] 2026-04-20 15:05:34 Error: detect: error parsing signature "alert tcp any any -> $HOME_NET any (msg:"ET EXPLOIT 7-Zip 7z File PPMd Properties Parsing Integer Underflow (CVE-2023-31102)"; flow:established,to_client; file.magic; content:"7-zip archive"; startswith; file.data; content:"7z|bc af 27 1c 00 30 00 00|"; startswith; fast_pattern; pcre:"/\x30{24,}\x00\x30{24,}\x17\x06\x1a\x01/"; filesize:<10000; reference:url,ds-security.com/post/integer-overflow-in-7-zip-cve-2023-31102/; reference:cve,2023-31102; classtype:misc-attack; sid:2065690; rev:1; metadata:attack_target Client_Endpoint, created_at 2025_11_06, cve CVE_2023_31102, deployment Perimeter, deployment Internal, confidence Low, signature_severity Minor, tag Description_Generated_By_Proofpoint_Nexus, updated_at 2025_11_06; target:dest_ip;)" from file C:\\Program Files\\Suricata\\rules\\emerging-exploit.rules at line 4111
+[34744 - Suricata-Main] 2026-04-20 15:05:34 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-icmp_info.rules: No such file or directory.
+[34744 - Suricata-Main] 2026-04-20 15:05:35 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-policy.rules: No such file or directory.
+[34744 - Suricata-Main] 2026-04-20 15:05:36 Info: detect: 47 rule files processed. 40080 rules successfully loaded, 1 rules failed, 0 rules skipped
+[34744 - Suricata-Main] 2026-04-20 15:05:36 Warning: threshold-config: Error opening file: "C:\Program Files\Suricata\\\threshold.config": No such file or directory
+[34744 - Suricata-Main] 2026-04-20 15:05:36 Info: detect: 40085 signatures processed. 1261 are IP-only rules, 3800 are inspecting packet payload, 34987 inspect application layer, 0 are decoder event only
+[34744 - Suricata-Main] 2026-04-20 15:05:36 Warning: detect-flowbits: flowbit 'et.DocVBAProject' is checked but not set. Checked in 2020170 and 0 other sigs
+[34744 - Suricata-Main] 2026-04-20 15:05:36 Warning: detect-flowbits: flowbit 'ET.generictelegram' is checked but not set. Checked in 2045614 and 0 other sigs
+[34744 - Suricata-Main] 2026-04-20 15:05:36 Warning: detect-flowbits: flowbit 'ET.implantjs.syn' is checked but not set. Checked in 2060257 and 2 other sigs
+[34744 - Suricata-Main] 2026-04-20 15:05:36 Warning: detect-flowbits: flowbit 'ET.telnet.busybox' is checked but not set. Checked in 2023019 and 2 other sigs
+[34744 - Suricata-Main] 2026-04-20 15:05:36 Warning: detect-flowbits: flowbit 'ET.JS.Obfus.Func' is checked but not set. Checked in 2017247 and 0 other sigs
+[34744 - Suricata-Main] 2026-04-20 15:05:36 Warning: detect-flowbits: flowbit 'ET.ZIP.Symlink.Inbound' is checked but not set. Checked in 2059742 and 2 other sigs
+[34744 - Suricata-Main] 2026-04-20 15:05:38 Warning: suricata: setrlimit unavailable.
+[35544 - RX#01] 2026-04-20 15:05:38 Info: pcap: Starting file run for C:/Users/user/Downloads/test.pcap
+[35544 - RX#01] 2026-04-20 15:05:38 Info: checksum: Less than 1/10th of packets have an invalid checksum, assuming checksum offloading is NOT used (3/1000)
+[34744 - Suricata-Main] 2026-04-20 15:05:38 Notice: threads: Threads created -> RX: 1 W: 20 FM: 1 FR: 1   Engine started.
+[35544 - RX#01] 2026-04-20 15:05:38 Info: pcap: pcap file C:/Users/user/Downloads/test.pcap end of file reached (pcap err code 0)
+[34744 - Suricata-Main] 2026-04-20 15:05:38 Notice: suricata: Signal Received.  Stopping engine.
+[34744 - Suricata-Main] 2026-04-20 15:05:39 Info: suricata: time elapsed 0.893s
+[35544 - RX#01] 2026-04-20 15:05:39 Notice: pcap: read 1 file, 8000 packets, 515475 bytes
+[34744 - Suricata-Main] 2026-04-20 15:05:40 Info: counters: Alerts: 21
+[35276 - Suricata-Main] 2026-04-20 15:16:31 Notice: suricata: This is Suricata version 8.0.4 RELEASE running in USER mode
+[35276 - Suricata-Main] 2026-04-20 15:16:31 Info: cpu: CPUs/cores online: 20
+[35276 - Suricata-Main] 2026-04-20 15:16:31 Notice: runmodes: thread stack size of 0 too small: setting to 512k
+[35276 - Suricata-Main] 2026-04-20 15:16:31 Info: suricata: Setting engine mode to IDS mode by default
+[35276 - Suricata-Main] 2026-04-20 15:16:31 Info: exception-policy: master exception-policy set to: auto
+[35276 - Suricata-Main] 2026-04-20 15:16:31 Info: coredump-config: Configuring core dump is not yet supported on Windows.
+[35276 - Suricata-Main] 2026-04-20 15:16:31 Info: logopenfile: fast output device (regular) initialized: fast.log
+[35276 - Suricata-Main] 2026-04-20 15:16:31 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[35276 - Suricata-Main] 2026-04-20 15:16:31 Info: logopenfile: stats output device (regular) initialized: stats.log
+[35276 - Suricata-Main] 2026-04-20 15:16:31 Error: detect-parse: unknown rule keyword 'file.magic'.
+[35276 - Suricata-Main] 2026-04-20 15:16:31 Error: detect: error parsing signature "alert tcp any any -> $HOME_NET any (msg:"ET EXPLOIT 7-Zip 7z File PPMd Properties Parsing Integer Underflow (CVE-2023-31102)"; flow:established,to_client; file.magic; content:"7-zip archive"; startswith; file.data; content:"7z|bc af 27 1c 00 30 00 00|"; startswith; fast_pattern; pcre:"/\x30{24,}\x00\x30{24,}\x17\x06\x1a\x01/"; filesize:<10000; reference:url,ds-security.com/post/integer-overflow-in-7-zip-cve-2023-31102/; reference:cve,2023-31102; classtype:misc-attack; sid:2065690; rev:1; metadata:attack_target Client_Endpoint, created_at 2025_11_06, cve CVE_2023_31102, deployment Perimeter, deployment Internal, confidence Low, signature_severity Minor, tag Description_Generated_By_Proofpoint_Nexus, updated_at 2025_11_06; target:dest_ip;)" from file C:\\Program Files\\Suricata\\rules\\emerging-exploit.rules at line 4111
+[35276 - Suricata-Main] 2026-04-20 15:16:31 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-icmp_info.rules: No such file or directory.
+[35276 - Suricata-Main] 2026-04-20 15:16:32 Error: detect: opening rule file C:\\Program Files\\Suricata\\rules\\emerging-policy.rules: No such file or directory.
+[35276 - Suricata-Main] 2026-04-20 15:16:32 Info: detect: 47 rule files processed. 40080 rules successfully loaded, 1 rules failed, 0 rules skipped
+[35276 - Suricata-Main] 2026-04-20 15:16:32 Warning: threshold-config: Error opening file: "C:\Program Files\Suricata\\\threshold.config": No such file or directory
+[35276 - Suricata-Main] 2026-04-20 15:16:32 Info: detect: 40085 signatures processed. 1261 are IP-only rules, 3800 are inspecting packet payload, 34987 inspect application layer, 0 are decoder event only
+[35276 - Suricata-Main] 2026-04-20 15:16:32 Warning: detect-flowbits: flowbit 'et.DocVBAProject' is checked but not set. Checked in 2020170 and 0 other sigs
+[35276 - Suricata-Main] 2026-04-20 15:16:32 Warning: detect-flowbits: flowbit 'ET.generictelegram' is checked but not set. Checked in 2045614 and 0 other sigs
+[35276 - Suricata-Main] 2026-04-20 15:16:32 Warning: detect-flowbits: flowbit 'ET.implantjs.syn' is checked but not set. Checked in 2060257 and 2 other sigs
+[35276 - Suricata-Main] 2026-04-20 15:16:32 Warning: detect-flowbits: flowbit 'ET.telnet.busybox' is checked but not set. Checked in 2023019 and 2 other sigs
+[35276 - Suricata-Main] 2026-04-20 15:16:32 Warning: detect-flowbits: flowbit 'ET.JS.Obfus.Func' is checked but not set. Checked in 2017247 and 0 other sigs
+[35276 - Suricata-Main] 2026-04-20 15:16:32 Warning: detect-flowbits: flowbit 'ET.ZIP.Symlink.Inbound' is checked but not set. Checked in 2059742 and 2 other sigs
+[35276 - Suricata-Main] 2026-04-20 15:16:35 Warning: suricata: setrlimit unavailable.
+[4760 - RX#01] 2026-04-20 15:16:35 Info: pcap: Starting file run for C:/Users/user/Downloads/smallFlows.pcap
+[4760 - RX#01] 2026-04-20 15:16:35 Info: checksum: No packets with invalid checksum, assuming checksum offloading is NOT used
+[35276 - Suricata-Main] 2026-04-20 15:16:35 Notice: threads: Threads created -> RX: 1 W: 20 FM: 1 FR: 1   Engine started.
+[4760 - RX#01] 2026-04-20 15:16:35 Info: pcap: pcap file C:/Users/user/Downloads/smallFlows.pcap end of file reached (pcap err code 0)
+[35276 - Suricata-Main] 2026-04-20 15:16:35 Notice: suricata: Signal Received.  Stopping engine.
+[35276 - Suricata-Main] 2026-04-20 15:16:36 Info: suricata: time elapsed 1.647s
+[4760 - RX#01] 2026-04-20 15:16:36 Notice: pcap: read 1 file, 14261 packets, 9216531 bytes
+[35276 - Suricata-Main] 2026-04-20 15:16:37 Info: counters: Alerts: 17
